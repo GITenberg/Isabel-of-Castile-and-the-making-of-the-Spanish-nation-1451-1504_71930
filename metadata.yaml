@@ -1,0 +1,30 @@
+_repo: Isabel-of-Castile-and-the-making-of-the-Spanish-nation-1451-1504_71930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plunket, Ierne L. (Ierne Lifford)
+    alias: Plunket, Ierne Arthur Lifford
+    birthdate: 1885
+    deathdate: 1970
+    gutenberg_agent_id: '47827'
+    url: http://www.gutenberg.org/2009/agents/47827
+description: ''
+gutenberg_issued: '2023-10-22'
+identifiers:
+  gutenberg: '71930'
+language: en
+pgterms:marc904: https://archive.org/details/isabelofcastilem00plun
+pgterms:marc905: 20150321160416plunket
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Richard Tonsing, Clarity, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Isabel of Castile and the making of the Spanish nation, 1451-1504
+url: http://www.gutenberg.org/ebooks/71930
